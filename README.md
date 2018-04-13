@@ -1,2 +1,4 @@
 # test1
-some test
+An illustrative Python 3.6 programme and test script
+
+
